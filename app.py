@@ -6,3 +6,7 @@ if __name__ == '__main__':
     
     def hello():
     return 'Hello, CI World!'
+    
+ 
+ def goodbye():
+     return "Goodbye"
